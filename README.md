@@ -1,0 +1,1 @@
+# DayZ-Disable-Fire-Attachment-Damage
